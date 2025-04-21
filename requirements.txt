@@ -1,7 +1,11 @@
-streamlit
+Package
+streamlit 
 pandas
 scikit-learn
-spacy
-nltk
-sentence-transformers
+spacy 
+nltk 
+sentence-transformers 
 pdfminer.six
+transformers
+torch 
+bcrypt 
